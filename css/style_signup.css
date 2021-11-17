@@ -1,0 +1,26 @@
+
+ table{
+     height: 300px;
+    width: 900px;
+    border-top: 3px solid black;
+    margin-right: auto;
+    margin-left: auto;
+    }
+ 
+td{
+    border-bottom: 1px dotted black;
+    }
+h2{
+    text-align: center;
+}
+.col1{
+    padding: 10px;
+    text-align: right;
+    font-weight: bold;
+    font-size: 15px;
+    }
+
+.center{
+    text-align: center;
+    align-items: center;
+}
